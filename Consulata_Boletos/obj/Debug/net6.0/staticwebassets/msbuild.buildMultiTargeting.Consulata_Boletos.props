@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Consulata_Boletos.props" />
+</Project>
